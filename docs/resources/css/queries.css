@@ -125,6 +125,23 @@
 
     .works-step { margin-bottom: 20px;}
     .works-step:last-of-type {margin-bottom: 20px; }
+
+    .logo { margin-top: 20px;}
+    .section-steps { padding: 60px 0;}
+    .container { 
+        width: 100%;
+        padding: 10px 0px 10px 45px;
+    }
+    .content { padding: 20px 40px;}
+    .left::before { left: 15px; }
+    .right {left: 0;}
+    .timeline::after { left: 15px;}
+    .container::after { left: -15px;}
+    .container-2 { 
+        width: 100%;
+        padding: 10px 0px 10px 45px;
+    }
+    .content h3  {display: block; width: 100%;}
     
 }
 
